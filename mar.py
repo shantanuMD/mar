@@ -1,6 +1,6 @@
  
- ​#!/usr/bin/python 
- ​# -*- coding: UTF-8 -*- 
+
+
   
  ​from​ ​os​ ​import​ ​system​, ​name 
  ​import​ ​itertools 
@@ -11,9 +11,8 @@
  ​from​ ​base64​ ​import​ ​b64decode​,​b64encode 
  ​from​ ​datetime​ ​import​ ​date 
   
- ​expirydate​ ​=​ ​datetime​.​date​(​2021​, ​9​, ​12​) 
- ​playday​ ​=​ ​datetime​.​date​(​2021​, ​9​,​11​) 
- ​#expirydate = datetime.date(2021, 8, 30) 
+
+
  ​today​=​date​.​today​() 
  ​def​ ​hero​(): 
   
