@@ -2,14 +2,8 @@
 
 
   
- ​from​ ​os​ ​import​ ​system​, ​name 
- ​import​ ​itertools 
- ​import​ ​threading 
- ​import​ ​time 
- ​import​ ​sys 
- ​import​ ​datetime 
- ​from​ ​base64​ ​import​ ​b64decode​,​b64encode 
- ​from​ ​datetime​ ​import​ ​date 
+  
+ 
   
 
 
@@ -162,33 +156,29 @@
  ​        ​banner​=​'figlet RXCE' 
  ​        ​print​(​"Hi!! Thanks for buying the hack"​) 
  ​        ​print​(​"----------Your play time-----------"​) 
- ​        ​#print(playday," 11:00 AM- 11:30 AM") 
- ​        ​print​(​playday​,​" 02:30 PM- 03:00 PM"​) 
- ​        ​print​(​playday​,​" 05:30 PM- 06:00 PM"​) 
- ​        ​print​(​playday​,​" 08:30 PM- 09:00 PM"​) 
+ ​        ​print ("11:00 AM- 11:30 AM") 
+ ​        ​print ("02:30 PM- 03:00 PM") 
+ ​        ​print​("05:30 PM- 06:00 PM") 
+ ​        ​print​("08:30 PM- 09:00 PM") 
  ​        ​print​(​"Please play on the given time, and "​) 
  ​        ​print​(​"If you think it is an error contact"​) 
  ​        ​print​(​" admin on telegram @smsn_knt "​) 
- ​elif​(​expirydate​>​today​): 
+ ​elif​(today): 
  ​    ​banner​=​'figlet RXCE' 
  ​    ​system​(​banner​) 
  ​    ​print​(​"Hi!! Thanks for buying the hack"​) 
- ​    ​print​(​"We got error today as Somebody is"​) 
- ​    ​print​(​"using our hack in bulk without our permission"​) 
- ​    ​print​(​"that's why we have updated your play time to tomorrow"​) 
+ 
  ​    ​print​(​"Thank you!! for ur understanding"​) 
  ​    ​print​(​"----------Your play time-----------"​) 
- ​    ​#print(playday," 11:00 AM- 11:30 AM") 
- ​    ​print​(​playday​,​" 02:30 PM- 03:00 PM"​) 
- ​    ​print​(​playday​,​" 05:30 PM- 06:00 PM"​) 
- ​    ​print​(​playday​,​" 08:30 PM- 09:00 PM"​) 
+ ​    ​print ("11:00 AM- 11:30 AM") 
+ ​    ​print​("02:30 PM- 03:00 PM") 
+ ​    ​print​("05:30 PM- 06:00 PM") 
+ ​    ​print​("08:30 PM- 09:00 PM") 
  ​    ​print​(​"Please play on the given time, and "​) 
  ​    ​print​(​"If you think it is an error contact"​) 
  ​    ​print​(​" admin on telegram @smsn_knt "​) 
   
+ 
+ 
   
- ​else​: 
- ​    ​banner​=​'figlet RXCE' 
- ​    ​system​(​banner​) 
- ​    ​print​(​"Your hack has expired--- Please contact"​) 
- ​    ​print​(​" on telegram -----------@smsn_knt"​)
+ 
